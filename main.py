@@ -1,6 +1,9 @@
 import time
 import json
 import telebot
+from keep_alive import keep_alive
+keep_alive()
+
 
 ##TOKEN DETAILS
 TOKEN = "TRON"
