@@ -1,1 +1,2 @@
-pyTelegramBotAPI
+multicolorcaptcha == 1.2.0
+python-telegram-bot[all] == 20.0
